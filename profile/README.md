@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="NeuralQuantum.ai Logo" width="160"/>
+  <img src="logo.png" alt="NeuralQuantum.ai Logo" width="800"/>
 </p>
 
 # NeuralQuantum.ai
